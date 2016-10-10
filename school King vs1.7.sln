@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "school King vs1.7.CSharp.Plugins", "school King vs1.7.CSharp.Plugins.csproj", "{FE95FB0F-D444-E304-CA57-C21726605B74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "school King vs1.7.CSharp", "school King vs1.7.CSharp.csproj", "{470403EB-8771-1BA0-A1E7-2B7720CB4530}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "school King vs1.7.CSharp.Editor", "school King vs1.7.CSharp.Editor.csproj", "{38F8DE63-77AB-9B93-4D78-E18078A7CF85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE95FB0F-D444-E304-CA57-C21726605B74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE95FB0F-D444-E304-CA57-C21726605B74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE95FB0F-D444-E304-CA57-C21726605B74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE95FB0F-D444-E304-CA57-C21726605B74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{470403EB-8771-1BA0-A1E7-2B7720CB4530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{470403EB-8771-1BA0-A1E7-2B7720CB4530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{470403EB-8771-1BA0-A1E7-2B7720CB4530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{470403EB-8771-1BA0-A1E7-2B7720CB4530}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38F8DE63-77AB-9B93-4D78-E18078A7CF85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38F8DE63-77AB-9B93-4D78-E18078A7CF85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38F8DE63-77AB-9B93-4D78-E18078A7CF85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38F8DE63-77AB-9B93-4D78-E18078A7CF85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
